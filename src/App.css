@@ -1,0 +1,28 @@
+.App{
+  background-color: rgb(146, 168, 195);
+}
+
+.card {
+  width: 18rem;
+  margin: 20px auto;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+
+p {
+  margin-bottom: 0.5rem;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
